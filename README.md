@@ -3,11 +3,9 @@ I contributed significantly to my graduation project by implementing the backend
 
 -------------------------------------------------------------------------------------------------------------
 
-
-
 https://github.com/user-attachments/assets/201e4b5c-0204-4536-9efc-6e368f57a356
 
-
+-------------------------------------------------------------------------------------------------------------
 
 Adopting solar cells is crucial for addressing climate change and transitioning to clean energy. Solar cells can power residential and commercial buildings, reducing carbon emissions and promoting a cleaner environment. The rising costs of traditional electricity sources lead to higher electricity bills, while solar power provides an independent energy source, reducing or eliminating these bills. Government incentives and the ability to sell excess energy back to the grid further enhance the financial benefits. Investing in solar energy offers long-term savings and environmental advantages. 
 
